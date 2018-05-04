@@ -17,8 +17,10 @@ primarylinks:
    url: https://stackoverflow.com/users/7569240/utkarsh-devops
  - title: LinkedIn
    url: https://www.linkedin.com/in/utkarsh-sharma-89b371aa/
-# - title: CV
-#   utl: https://github.com/utkarsh-devops/utkarsh-devops.github.io/blob/master/Utkarsh_DevOps.pdf
+ - title: Medium
+   url: https://medium.com/@utkarshdevops
+ - title: CV
+   utl: https://github.com/utkarsh-devops/utkarsh-devops.github.io/blob/master/Utkarsh_DevOps.pdf
 
 #Any buzzword skills you want to include
 skills:
