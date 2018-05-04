@@ -42,7 +42,7 @@ roles:
    start: 2016
    end: Ongoing
    employer: CloudCover, Inc.
-   description: CloudCover delivers the insane potential of the public cloud to start-ups & agile enterprises through a combination of weaponized geekiness, extreme automation and battle-scarred experience..
+   description: CloudCover delivers the insane potential of the public cloud to start-ups & agile enterprises through a combination of weaponized geekiness, extreme automation and battle-scarred experience.
  - title: DevOps Engineer
    start: 2014
    end: 2015
@@ -56,20 +56,20 @@ education:
    school: University of Jaipur
 
 #This section is optional (as is the image link below)
-Certifications:
+#Certifications:
+education:
 #   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Agile Scrum Master (ASM)
-    - title: Google Cloud Platform Qualified Systems Operations Professional
-    - title: AWS Certified Solutions Architect - Professional
-    - title: AWS Certified DevOps Engineer - Professional
-    - title: AWS Certified Solutions Architect - Associate
-    - title: AWS Certified Developer - Associate
-    - title: AWS Certified SysOps Administrator - Associate
-    - title: RedHat Certified Engineer
-    - title: Red Hat Certified System Administrator
-    - title: Microsoft Certified Professional
-    - title: Microsoft Certified Technology Specialist
+ - level: Agile Scrum Master (ASM)
+ - level: Google Cloud Platform Qualified Systems Operations Professional
+ - level: AWS Certified Solutions Architect - Professional
+ - level: AWS Certified DevOps Engineer - Professional
+ - level: AWS Certified Solutions Architect - Associate
+ - level: AWS Certified Developer - Associate
+ - level: AWS Certified SysOps Administrator - Associate
+ - level: RedHat Certified Engineer
+ - level: Red Hat Certified System Administrator
+ - level: Microsoft Certified Professional
+ - level: Microsoft Certified Technology Specialist
    
 
 #List of interesting Github repo/projects to include - optional
